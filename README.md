@@ -57,7 +57,7 @@ will result in this VDHL matrix:
 ## Download
 
 A Linux x64 precompiled executable can be downloaded
-[here](https://github.com/RaphaelJ/vdhl-image/releases/download/v0.1.0.0/vdhl-image.x64.executable).
+[here](https://github.com/RaphaelJ/vdhl-image/releases/tag/v0.1.0.0).
 
 You will need to have the DevIL image library installed on your system. The
 library is present in most distribution package repositories.
