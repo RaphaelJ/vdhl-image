@@ -54,6 +54,14 @@ will result in this VDHL matrix:
 (11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111);
 ```
 
+## Download
+
+A Linux x64 precompiled executable can be downloaded
+[here](https://github.com/RaphaelJ/vdhl-image/releases/download/v0.1.0.0/vdhl-image.x64.executable).
+
+You will need to have the DevIL image library installed on your system. The
+library is present in most distribution package repositories.
+
 ## Usage
 
 You need to execute the vdhl-image command with the image you want to convert
